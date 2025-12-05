@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <style> 
+    div {
+        padding: 70px;
+        border: 1px solid #d4e2eb;
+    }
+        h1 {
+            color:crimson;
+            text-align: center;
+        }
+        h3 {
+            color:forestgreen;
+            text-align: center;
+        }
+    </style>
+    </head>
+ <title>About Tanner Covey</title>
+ <body>
+    <h1> About Tanner Covey </h1>
+    <h3><script>document.write(new Date().toLocaleString())</script></h3>
+    <div><p> Hey! If you couldn't tell from the title, my name is Tanner Covey. 
+        I'm currently in a introduction course for Cybersecurity, and I've been asked to make a website about myself for an assignment.
+        Please don't use any of the info you find on this website for malicious things, as this course has taught me I do not actually want 
+        to have a job in Cybersecurity, won't be furthering my pursuit of the major, and therefore won't be able to do anything about malicious
+        usage of my personal information! </p></div>
+
+    <div><h2> Education </h2>
+    <p> I am currently a Sophmore at Brigham Young University. You might have been able to piece it together from the introduction,
+        but my major of choice is still a bit up in the air as of right now. Other than that, my main other acedemic achievement was 
+        graduating from Viewmont High School in 2022.
+    </p></div>
+    <div><h2> Family </h2>
+    <p> I come from a family of 6, and I fall second in the line-up of siblings. I have an older sister, as well as a younger sister and 
+        younger brother. Originally we came from Oregon, but moved to Utah for my dad's work when I was 8 years old. My parents are almost 
+        empty-nesters, as my younger sister is senior in high school as of right now, and my brother is a junior who has made it so that he 
+        will graduate a year early (cause he's smart or something).
+    </p></div>
+    <div><h2> Religion </h2>
+    <p> I am a member of the Church of Jesus Christ of Latter-day Saints, along with the rest of my family. My mom joined the church with her
+        mom when she was 8-years-old, and my dad joined when he was 19. I served a mission for the church from 2023 to 2025 in Morristown 
+        New Jersey. I love the gospel and my Savior Jesus Christ, and am very grateful for the places that my faith has taken me.
+    </p></div>
+
+ </body>
+</html>
